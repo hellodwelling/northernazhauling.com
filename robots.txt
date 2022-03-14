@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://northernazhauling.com/sitemap.xml
